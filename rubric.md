@@ -11,7 +11,7 @@ Score = (8 x Automated Correctness Checks) + (4 x Automated Style & Best Practic
 _"Does your code do what it was asked to do?"_
 
 - [ ] 5: All tests pass.
-- [ ] 4: All non-error tests.
+- [ ] 4: All non-error tests pass.
 - [ ] 3: All non-error game, overtime game, and set tests pass.
 - [ ] 2: All non-error game and overtime game tests pass.
 - [ ] 1: All non-error game tests pass.
